@@ -1,0 +1,22 @@
+html, body{
+  background-color: #131313;
+  height: 100vh;
+}
+
+label{
+  color: white;
+  font-size: 21px;
+}
+
+input{
+  border-radius: 5px;
+}
+
+div{
+  width: 100%;
+}
+
+.code{
+  border:1px solid white;
+
+}
