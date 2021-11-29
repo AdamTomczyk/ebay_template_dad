@@ -331,7 +331,7 @@ color:#1a73e8;
 <h2 style="color:transparent;">Test</h2>
 </div>
 </div>
-<h3 style="color:#494949;font-weight:400;">Langarm Fahrradtrikot</h3>
+<h3 style="color:#494949;font-weight:400;">Fahrrad Jacke</h3>
 <div class="row">
 <div class="col-sm-6 col-md-5 col-lg-6 col-xl-6">
 <h1 style="font-weight:400;color:#2B2B2B;">${data.team}</h1>
@@ -345,7 +345,7 @@ color:#1a73e8;
 
 <div class="row">
 <div class="col-sm-12 col-md-4 col-lg-5">
-<h3 style="font-weight:400;color:#2B2B2B;">100% Polyster</h3>
+<h3 style="font-weight:400;color:#2B2B2B;"><span style="caret-color: rgb(68, 68, 68); color: rgb(68, 68, 68); letter-spacing: 0.4000000059604645px; font-size: large;"></span></h3>
 </div>
 
 </div>
@@ -383,19 +383,18 @@ color:#1a73e8;
 </nav>
 <figure>
 <div class="tab1"><p>
-Warmes und gleichzeitig Performance optimiertes Langarmtrikot, welches sich perfekt als „Add-On“ oder als Solo „Warrior“ bewährt.<br><br>
-
-Das Trikot besticht durch dichte Materialstärke dich nicht nur jeglichen Gegenwind aerodynamisch ableitet, sondern zugleich dank modernster Technologie atmungsaktiv und wärmeisolierend ist. Zudem sorgen hochwertige verarbeitete Fasern für wasserabweichende Eigenschaften.
+Langarmige Herbst/Winterjacke, welche sich perfekt für die kältere Jahreszeit eignet.<br><br>
+Die Jacke besticht durch seinen glatten Stoff der nicht nur wintertypischen Gegenwind aerodynamisch ableitet, sondern zugleich dank Windstopper Technologie® atmungsaktiv und wärmeisolierend ist. Zudem sorgen hochwertige verarbeitete Fasern für schnee/wasserabweichende Eigenschaften.
 </p></div>
 <div class="tab2"><p>
-Das Produkt wird zu 100% in der EU hergestellt. Die Trikot besticht durch seine hochwertige Windstopper® Membrane. <br><br>
-Dank seiner hochwertigen Verarbeitung ist das Langarm äußerst belastungsfähig und langlebig. Moderene Memory-Technolgie sorgt für die weiche und flexible Struktur des Materials, welche sich schnell an den Körper anpasst.
+Das Produkt wird zu 100% in der EU hergestellt. Die Jacke besticht durch seine hochwertige Windstopper® Membrane. <br><br>
+Dank seiner hochwertigen Verarbeitung ist die Jacke äussert belastungsfähig und langlebig. Moderene Memory-Technolgie sorgt für die weiche und flexible Struktur des Materials, welche sich schnell an den Körper anpasst.
 </p></div>
 <div class="tab3"><p>
-- Reißverschluss YKK<br>
+- Reißverschluss<br>
 - Drei Rückentaschen<br>
 - Gummiabschlußbund<br>
-- Active Cool Technologie<br>
+- Windstopper® Technolgie<br>
 </p></div>
 </figure>
 </div>
@@ -412,19 +411,17 @@ Dank seiner hochwertigen Verarbeitung ist das Langarm äußerst belastungsfähig
 
 <div class="col-5 d-none d-sm-none d-md-none d-lg-block d-xl-block">
 <h3 style="font-weight:400;">Beschreibung</h3>
-<p style="font-weight: lighter;color:#444;line-height:25px">Warmes und gleichzeitig Performance optimiertes Langarmtrikot, welches sich perfekt als „Add-On“ oder als Solo „Warrior“ bewährt.
+<p style="font-weight: lighter;color:#444;line-height:25px">Langarmige Herbst/Winterjacke, welche sich perfekt für die kältere Jahreszeit eignet.
 <br><br>
-Das Trikot besticht durch dichte Materialstärke dich nicht nur jeglichen Gegenwind aerodynamisch ableitet, sondern zugleich dank modernster Technologie atmungsaktiv und wärmeisolierend ist. Zudem sorgen hochwertige verarbeitete Fasern für wasserabweichende Eigenschaften.
-</p><p>
+Die Jacke besticht durch seinen glatten Stoff der nicht nur wintertypischen Gegenwind aerodynamisch ableitet, sondern zugleich dank Windstopper Technologie® atmungsaktiv und wärmeisolierend ist. Zudem sorgen hochwertige verarbeitete Fasern für schnee/wasserabweichende Eigenschaften. </p><p>
 </p></div>
 <div class="col-1"></div>
 <div class="col-5 d-none d-sm-none d-md-none d-lg-block d-xl-block">
 <h3 style="font-weight:400;">Verarbeitung</h3>
-<p style="font-weight:400;color:#444;line-height:25px">Das Produkt wird zu 100% in der EU hergestellt. Das Shirt wird aus hochwertigem Polyester gefertigt.
+<p style="font-weight:400;color:#444;line-height:25px">Das Produkt wird zu 100% in der EU hergestellt. Die Jacke besticht durch seine hochwertige Windstopper® Membrane.
 
 <br><br>
-Dank seiner hochwertigen Verarbeitung ist das Langarm Trikot äußerst belastungsfähig und langlebig. Moderene Memory-Technolgie sorgt für die weiche und flexible Struktur des Materials, welche sich schnell an den Körper anpasst.
-</p><p>
+Dank seiner hochwertigen Verarbeitung ist die Jacke äussert belastungsfähig und langlebig. Moderene Memory-Technolgie sorgt für die weiche und flexible Struktur des Materials, welche sich schnell an den Körper anpasst. </p><p>
 </p></div>
 </div>
 
@@ -436,17 +433,18 @@ Dank seiner hochwertigen Verarbeitung ist das Langarm Trikot äußerst belastung
 <h3 style="font-weight:400;">Highlights</h3>
 <p style="color:#444;">- Reißverschluss</p>
 <p style="color:#444">- 3x Rückentaschen</p>
-<p style="color:#444;">- Active Cool Technolgie</p>
+<p style="color:#444;">- Windstopper® Technolgie</p>
 
 </div>
 <div class="col-1"></div>
 <div class="col-4 d-none d-sm-none d-md-none d-lg-block d-xl-block">
 <h3 style="font-weight:400;">Bezahlung &amp; Versand</h3>
-<p style="color:#444;">Überweisung oder Barzahlung bei Abholung</p>
-<p style="color:#444;">Kostenloser Versand- Deutschland <br><br> EU-Länder &amp; Schweiz 7,30 EUR </p>
+<p style="color:#444;">PayPal, GPay, Visa, MasterCard, Amex, Überweisung oder Barzahlung bei Abholung</p>
+<p style="color:#444;">Kostenloser Versand-Deutschland <br><br> EU-Länder &amp; Schweiz 10,20 EUR </p>
 </div>
 <div class="col-1"></div>
-</div><br>
+</div>
+
 <br class="d-none d-sm-none d-md-none d-lg-block d-xl-block">
 
 <br><br>
@@ -551,6 +549,7 @@ innerhalb von 14 Tagen von Ihrem Rückgabrecht gebrauch machen
 <br>
 <br>
 <br>
+<br>
 
 <div class="row">
 <div class="d-none d-lg-block d-xl-none d-xl-block col-lg-1 col-xl-1"></div>
@@ -603,7 +602,7 @@ innerhalb von 14 Tagen von Ihrem Rückgabrecht gebrauch machen
 ">
 <thead>
 <tr>
-<td style="text-align:left;"><span style="font-weight:bold;">&nbsp;Langarm Trikot<br></span></td>
+<td style="text-align:left;"><span style="font-weight:bold;">Jacken Größen</span></td>
 <td style="text-align:center;border-bottom: 1px solid white;
 border-right: 1px solid white;padding:1%;"><span style="font-weight:bold;">S</span></td>
 <td style="text-align:center;border-bottom: 1px solid white;
@@ -624,56 +623,75 @@ border-right: 1px solid white;padding:1%;"><span style="font-weight:bold;">4XL</
 <tr>
 <td style="background-color:#FF8181;text-align:left;">A - Brustbreite</td>
 <td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">47 cm</td>
-<td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">49 cm</td>
-<td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">53 cm</td>
+border-right: 1px solid white;padding:1%;">54 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
 border-right: 1px solid white;padding:1%;">56 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">59 cm</td>
+border-right: 1px solid white;padding:1%;">58 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">61 cm</td>
+border-right: 1px solid white;padding:1%;">60 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">64 cm</td>
+border-right: 1px solid white;padding:1%;">62 cm</td>
+<td style="text-align:center;border-bottom: 1px solid white;
+border-right: 1px solid white;padding:1%;">66 cm</td>
+<td style="text-align:center;border-bottom: 1px solid white;
+border-right: 1px solid white;padding:1%;">70 cm</td>
 </tr>
 <tr>
 <td style="background-color:#5EECFF;text-align:left;">B - Länge Vorne</td>
 <td style="text-align:center;border-bottom: 1px solid white;
+border-right: 1px solid white;padding:1%;">57 cm</td>
+<td style="text-align:center;border-bottom: 1px solid white;
 border-right: 1px solid white;padding:1%;">59 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">61 cm</td>
+border-right: 1px solid white;padding:1%;">60 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">64 cm</td>
+border-right: 1px solid white;padding:1%;">62 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">67 cm</td>
+border-right: 1px solid white;padding:1%;">65 cm</td>
+<td style="text-align:center;border-bottom: 1px solid white;
+border-right: 1px solid white;padding:1%;">68 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
 border-right: 1px solid white;padding:1%;">69 cm</td>
-<td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">71 cm</td>
-<td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">71 cm</td>
 </tr>
 <tr>
 <td style="background-color:#CA54FF;text-align:left;">C - Bundweite</td>
 <td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">38 cm</td>
-<td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">40 cm</td>
+border-right: 1px solid white;padding:1%;">39 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
 border-right: 1px solid white;padding:1%;">42 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">43 cm</td>
+border-right: 1px solid white;padding:1%;">44 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">45 cm</td>
+border-right: 1px solid white;padding:1%;">46 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">47 cm</td>
+border-right: 1px solid white;padding:1%;">48 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
 border-right: 1px solid white;padding:1%;">49 cm</td>
+<td style="text-align:center;border-bottom: 1px solid white;
+border-right: 1px solid white;padding:1%;">50 cm</td>
 </tr>
 <tr>
 <td style="background-color:#96FF9B;text-align:left;">D - Ärmel Länge</td>
+<td style="text-align:center;border-bottom: 1px solid white;
+border-right: 1px solid white;padding:1%;">81 cm</td>
+<td style="text-align:center;border-bottom: 1px solid white;
+border-right: 1px solid white;padding:1%;">81 cm</td>
+<td style="text-align:center;border-bottom: 1px solid white;
+border-right: 1px solid white;padding:1%;">82 cm</td>
+<td style="text-align:center;border-bottom: 1px solid white;
+border-right: 1px solid white;padding:1%;">85 cm</td>
+<td style="text-align:center;border-bottom: 1px solid white;
+border-right: 1px solid white;padding:1%;">86 cm</td>
+<td style="text-align:center;border-bottom: 1px solid white;
+border-right: 1px solid white;padding:1%;">88 cm</td>
+<td style="text-align:center;border-bottom: 1px solid white;
+border-right: 1px solid white;padding:1%;">88 cm</td>
+</tr>
+<tr class="test">
+<td style="background-color:#FF9A5F;text-align:left;">E - Länge Hinten</td>
+<td style="text-align:center;border-bottom: 1px solid white;
+border-right: 1px solid white;padding:1%;">75 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
 border-right: 1px solid white;padding:1%;">77 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
@@ -681,30 +699,11 @@ border-right: 1px solid white;padding:1%;">79 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
 border-right: 1px solid white;padding:1%;">81 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">81 cm</td>
-<td style="text-align:center;border-bottom: 1px solid white;
 border-right: 1px solid white;padding:1%;">83 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">85 cm</td>
+border-right: 1px solid white;padding:1%;">86 cm</td>
 <td style="text-align:center;border-bottom: 1px solid white;
 border-right: 1px solid white;padding:1%;">87 cm</td>
-</tr>
-<tr class="test">
-<td style="background-color:#FF9A5F;text-align:left;">E - Länge Hinten</td>
-<td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">72 cm</td>
-<td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">74 cm</td>
-<td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">76 cm</td>
-<td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">78 cm</td>
-<td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">80 cm</td>
-<td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">81 cm</td>
-<td style="text-align:center;border-bottom: 1px solid white;
-border-right: 1px solid white;padding:1%;">83 cm</td>
 </tr>
 </tbody>
 </table>
